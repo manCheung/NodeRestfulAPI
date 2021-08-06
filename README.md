@@ -12,4 +12,4 @@ webpack\
 npm run start\
 -----OR------\
 yarn build\
-yarn start\
+yarn start
