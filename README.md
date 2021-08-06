@@ -8,8 +8,8 @@ npm install -g nodemon
 cp .example.env .env
 
 # Run
-webpack
-npm run start
------OR------
-yarn build
-yarn start
+webpack\
+npm run start\
+-----OR------\
+yarn build\
+yarn start\
